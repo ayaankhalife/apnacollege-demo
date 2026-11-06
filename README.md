@@ -1,2 +1,3 @@
 # apnacollege-demo
-first Git
+first Git in repository.
+Author-Ayaan Khalife
